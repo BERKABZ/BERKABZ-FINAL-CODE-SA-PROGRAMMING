@@ -1,0 +1,16 @@
+STUDENTS INFORMATION
+------------------
+ID Number: 123
+Name: berkbaz
+Age: 20
+Course: BSIT
+Year: 2nd
+------------------
+STUDENTS INFORMATION
+------------------
+ID Number: 1236
+Name: darel
+Age: 52
+Course: bsit
+Year: asdad
+------------------
